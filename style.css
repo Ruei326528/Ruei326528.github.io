@@ -1,0 +1,54 @@
+body{
+    background-image:url("/website/picture/background_image.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+#head{
+    display: flex;
+    justify-content: center;
+}
+#rrr{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+    color: rgb(243, 245, 146);
+}
+.media{ 
+    display: flex;
+    justify-content: center;  
+}
+.list{
+    display: flex;
+    justify-content: center; 
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ruei{
+    display: flex;
+    justify-content: center;
+    font-size: 160px;
+}
+#DC{
+    padding-bottom: 5.5px;
+}
